@@ -13,4 +13,10 @@ puis [commit changes]
 Récupérer un fichier
 
 Faire [Clone or download]
-puis [Download ZIP]
+Puis [Download ZIP]
+Ensuite ouvrez code blocks
+Puis cliquez sur [Open an existing project]
+Allez chercher le ZIP (téléchargement je suppose)
+Cliquez sur le .cbp et [ouvrir]
+
+Fin
