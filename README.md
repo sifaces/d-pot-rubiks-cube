@@ -12,3 +12,5 @@ puis [commit changes]
 
 Récupérer un fichier
 
+Faire [Clone or download]
+puis [Download ZIP]
